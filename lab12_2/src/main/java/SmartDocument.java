@@ -1,8 +1,3 @@
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
-import lombok.AllArgsConstructor;
 
 import com.google.cloud.vision.v1.AnnotateImageRequest;
 import com.google.cloud.vision.v1.AnnotateImageResponse;
@@ -13,6 +8,11 @@ import com.google.cloud.vision.v1.Image;
 import com.google.cloud.vision.v1.ImageAnnotatorClient;
 import com.google.cloud.vision.v1.ImageSource;
 import com.google.cloud.vision.v1.TextAnnotation;
+import lombok.AllArgsConstructor;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 @AllArgsConstructor
 public class SmartDocument implements Document {

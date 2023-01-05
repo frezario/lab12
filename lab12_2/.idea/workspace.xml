@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -35,6 +42,25 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TestVision.test_vision" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab12_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestVision" />
+      <option name="METHOD_NAME" value="test_vision" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestVision.test_vision" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672919745962</updated>
-      <workItem from="1672919748665" duration="1183000" />
+      <workItem from="1672919748665" duration="3379000" />
     </task>
     <servers />
   </component>
