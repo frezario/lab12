@@ -15,7 +15,7 @@ public class Chain {
         amount = a;
     }
 
-    int transmit(int required, int got) {
+    public int transmit(int required, int got) {
         if (got == required) {
             return amount;
         }
